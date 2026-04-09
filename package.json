@@ -1,0 +1,15 @@
+{
+  "name": "badge-counter",
+  "version": "1.0.0",
+  "description": "Minimal configurable profile view counter badge",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@upstash/redis": "^1.28.0"
+  },
+  "devDependencies": {
+    "vercel": "^37.0.0"
+  }
+}
